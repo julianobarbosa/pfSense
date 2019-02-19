@@ -16,4 +16,11 @@ pkg add http://pkg.freebsd.org/freebsd:11:x86:64/latest/All/autogen-5.18.12_3.tx
 pkg add http://pkg.freebsd.org/freebsd:11:x86:64/latest/All/autoconf-2.69_2.txz
 pkg add http://pkg.freebsd.org/freebsd:11:x86:64/latest/All/autoconf-wrapper-20131203.txz
 pkg add http://pkg.freebsd.org/freebsd:11:x86:64/latest/All/autoconf-2.69_2.txz
+pkg add http://pkg.freebsd.org/freebsd:11:x86:64/latest/All/mpfr-4.0.1_2.txz
+pkg add http://pkg.freebsd.org/freebsd:11:x86:64/latest/All/mpc-1.1.0_2.txz
+pkg add http://pkg.freebsd.org/freebsd:11:x86:64/latest/All/amd64-binutils-2.32,1.txz
+pkg add http://pkg.freebsd.org/freebsd:11:x86:64/latest/All/amd64-gcc-6.4.0_5.txz
+pkg add http://pkg.freebsd.org/freebsd:11:x86:64/latest/All/gcc8-8.2.0_4.txz
+pkg add http://pkg.freebsd.org/freebsd:11:x86:64/latest/All/binutils-2.32,1.txz
+pkg add http://pkg.freebsd.org/freebsd:11:x86:64/latest/All/gcc-8_3.txz
 ```
